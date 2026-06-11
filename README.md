@@ -1,3 +1,6 @@
+### DevTrack Landing Page
+![DevTrack Screenshot](./public/screenshots/devtrack1.png)
+
 # DevTrack — Developer Task & Bug Tracking System
 
 DevTrack is a production-style full-stack software delivery workspace for managing projects, development tasks, bug reports, sprint progress, and issue resolution.
@@ -136,6 +139,3 @@ See `docs/TESTING.md`.
 ## Portfolio Description
 
 DevTrack is a full-stack developer task and bug tracking system built with Next.js, TypeScript, Supabase, and PostgreSQL. It simulates a real software delivery workspace where teams can manage projects, assign tasks, report defects, classify severity, and track sprint progress using a production-style dashboard.
-
-## Screenshots
-public/screenshots/devtrack1.png
