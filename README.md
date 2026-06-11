@@ -1,4 +1,6 @@
 ## Screenshots
+./public/screenshots/devtrack.png
+./public/screenshots/devtrack1.png
 
 # DevTrack — Developer Task & Bug Tracking System
 
