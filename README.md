@@ -1,3 +1,5 @@
+## Screenshots
+
 # DevTrack — Developer Task & Bug Tracking System
 
 DevTrack is a production-style full-stack software delivery workspace for managing projects, development tasks, bug reports, sprint progress, and issue resolution.
